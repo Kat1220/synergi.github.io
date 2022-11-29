@@ -1,0 +1,16 @@
+* {margin:0;
+padding:0;
+box-sizing:border-box;}
+
+
+.main: hover .inner{transform: translateX(100%);}
+.main {width: 400px;
+    height: 400px;
+    background-color: rgd(128,126,126);
+animation: ;
+   
+.inner {width: 200px;
+    height: 200px;
+    background-color: rgd(18,18,89);
+transition: all 1s ease-in-out;} }
+.main: :hover .inner { transform: translateX (100%);}
